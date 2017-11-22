@@ -80,5 +80,6 @@ namespace WebShopV10
             return totalCost;
         } 
         #endregion
+        //Hello
     }
 }
